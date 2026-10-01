@@ -13,6 +13,7 @@ dependencies = [
     "scipy",
     "filterpy",
     "lapx",
+    "ultralytics>=8.4.171",
 ]
 
 [project.optional-dependencies]
